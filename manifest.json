@@ -1,0 +1,18 @@
+{
+  "name": "Manavi's Kitchen",
+  "short_name": "Manavi's",
+  "description": "Ghanaian local dishes. Jollof, fried rice, banku, TZ and more. Order on WhatsApp.",
+  "start_url": "./manavis-kitchen.html",
+  "display": "standalone",
+  "background_color": "#fbf7fb",
+  "theme_color": "#3b1740",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%233b1740' width='192' height='192'/%3E%3Ctext x='96' y='110' font-size='90' font-weight='bold' fill='%23f2b01e' text-anchor='middle' font-family='serif'%3EMK%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
