@@ -12,11 +12,7 @@ bin-release/
 *.air
 *.ipa
 *.apk
-📁 manavis-kitchen
-  ├─ manavis-kitchen.html
-  ├─ manifest.json
-  ├─ sw.js
-  └─ .gitignore
+
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
